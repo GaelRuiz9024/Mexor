@@ -1,9 +1,0 @@
-/* Button.css */
-.custom-button {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 20px; /* Más redondeo a los botones */
-    font-size: 16px;
-    cursor: pointer;
-    color: white; /* Asegurarte de que el texto siempre sea legible */
-}
